@@ -1,3 +1,8 @@
+
+public class MyFile {
+    public static void main(String[] args) {
+        System.out.println("Hello");
+
 public class MyFile
 {
     public static void main(String[] args) {
@@ -7,5 +12,6 @@ public class MyFile
     static void display()
     {
         System.out.println("MyFile is going.....");
+
     }
 }
